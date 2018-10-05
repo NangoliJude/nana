@@ -1,0 +1,239 @@
+[
+        {
+          "id": 1,
+          "title": "Rubik",
+          "slug":"fonts-for-finance",
+          "body": "Hello am body whats Up Boys",
+          "fontFamily": "Georgia",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "white",
+          "opacity": "0",
+          "backgroundColor": "red",
+          "backgroundImage": "",
+          "accountImage": "haha",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "colorA": "red", "colorB": "red"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "energy, war, danger, strength, power, determination, passion, attention, desire, and love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 2,
+          "title": "Roboto",
+          "slug":"fonts-for-logo",
+          "body": "Hello am body whats Up Jude",
+          "fontFamily": "Roboto",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "white",
+          "opacity": "0",
+          "backgroundColor": "Orange",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "pink"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "enthusiasm, fascination, happiness, creativity, determination, attraction, success, encouragement, and stimulation.",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 3,
+          "title": "Lato",
+          "slug":"fonts-for-Print",
+          "body": "Nangoli Up Eric",
+          "fontFamily": "Tahoma",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "pink",
+          "opacity": "0",
+          "backgroundColor": "Yellow",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "pink"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "Love",
+          "inspiration": ["yes"],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 4,
+          "title": "San",
+          "slug":"fonts-for-Header",
+          "body": "Hello am body whats Up Nangoli",
+          "fontFamily": "OSWALD",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "green",
+          "opacity": "0",
+          "backgroundColor": "red",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "black"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "Love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 5,
+          "title": "San",
+          "slug":"fonts-for-Header",
+          "body": "Hello am body whats Up Nangoli",
+          "fontFamily": "OSWALD",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "green",
+          "opacity": "0",
+          "backgroundColor": "red",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "black"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "Love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 6,
+          "title": "San",
+          "slug":"fonts-for-Header",
+          "body": "Hello am body whats Up Nangoli",
+          "fontFamily": "OSWALD",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "green",
+          "opacity": "0",
+          "backgroundColor": "red",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "black"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "Love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 7,
+          "title": "San",
+          "slug":"fonts-for-Header",
+          "body": "Hello am body whats Up Nangoli",
+          "fontFamily": "OSWALD",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "green",
+          "opacity": "0",
+          "backgroundColor": "red",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "black"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "Love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        },
+        {
+          "id": 8,
+          "title": "San",
+          "slug":"fonts-for-Header",
+          "body": "Hello am body whats Up Nangoli",
+          "fontFamily": "OSWALD",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "green",
+          "opacity": "0",
+          "backgroundColor": "red",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [
+            {"id": 1, "blueA": "blue", "blueB": "black"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
+          ],
+          "colorMeaning": "Love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        }
+        
+    ]
+    
+
+
+
