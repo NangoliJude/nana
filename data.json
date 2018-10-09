@@ -14,16 +14,17 @@
           "opacity": "0",
           "backgroundColor": "red",
           "backgroundImage": "",
+          "linearA":"#bb491c", 
+          "linearB":"#d16e1b",
+          "linearC": "#e79217", 
+          "linearD":"#fcb60c",
           "accountImage": "haha",
           "author": "Jude",
           "likes": 10000,
-          "emotionColors": [
-            {"id": 1, "colorA": "red", "colorB": "red"},
-            {"id": 2, "blueA": "blue", "blueB": "pink"}
-          ],
           "colorMeaning": "energy, war, danger, strength, power, determination, passion, attention, desire, and love",
           "inspiration": [],
-          "fontLink": ["Rubik", "Lato"],
+          "fontLinkA": "https://fonts.google.com/specimen/Rubik",
+          "fontLinkB": "https://fonts.google.com/specimen/Lato",
           "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
           "imageUrl":
             "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
@@ -130,6 +131,10 @@
           "opacity": "0",
           "backgroundColor": "red",
           "backgroundImage": "",
+          "linearA": "#bb491c",
+          "linearB": "#d16e1b",
+          "linearC": "#e79217",
+          "linearD": "#fcb60c",
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
@@ -159,6 +164,10 @@
           "opacity": "0",
           "backgroundColor": "red",
           "backgroundImage": "",
+          "linearA": "#bb491c",
+          "linearB": "#d16e1b",
+          "linearC": "#e79217",
+          "linearD": "#fcb60c",
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
@@ -188,6 +197,10 @@
           "opacity": "0",
           "backgroundColor": "red",
           "backgroundImage": "",
+          "linearA": "#bb491c",
+          "linearB": "#d16e1b",
+          "linearC": "#e79217",
+          "linearD": "#fcb60c",
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
@@ -217,6 +230,10 @@
           "opacity": "0",
           "backgroundColor": "red",
           "backgroundImage": "",
+          "linearA": "#bb491c",
+          "linearB": "#d16e1b",
+          "linearC": "#e79217",
+          "linearD": "#fcb60c",
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
@@ -237,3 +254,6 @@
 
 
 
+
+
+    
